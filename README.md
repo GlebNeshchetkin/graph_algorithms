@@ -1,8 +1,8 @@
 # graph_algorithms
 C++ Basic Graph Algorithms
 
-> Custom Heap
+- Custom Heap
 
-> Dijkstra
+- Dijkstra
 
-> Bi Directional Dijkstra
+- Bi Directional Dijkstra

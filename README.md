@@ -6,3 +6,9 @@ C++ Basic Graph Algorithms
 - Dijkstra
 
 - Bi Directional Dijkstra
+
+- DisJoint Set
+
+- Prim
+
+- Kruskal

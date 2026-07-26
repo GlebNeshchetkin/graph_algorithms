@@ -12,3 +12,7 @@ C++ Basic Graph Algorithms
 - Prim
 
 - Kruskal
+
+- Ford-Fulkerson
+
+- Edmonds-Karp

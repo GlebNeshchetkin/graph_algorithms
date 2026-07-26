@@ -16,3 +16,5 @@ C++ Basic Graph Algorithms
 - Ford-Fulkerson
 
 - Edmonds-Karp
+
+- Tarjan's Offline LCA with DisJoint Set

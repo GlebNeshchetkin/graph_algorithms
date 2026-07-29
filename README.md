@@ -17,4 +17,6 @@ C++ Basic Graph Algorithms
 
 - Edmonds-Karp
 
-- Tarjan's Offline LCA with DisJoint Set
+- Tarjan Offline LCA with DisJoint Set
+
+- Kosaraju

@@ -22,3 +22,7 @@ C++ Basic Graph Algorithms
 - Kosaraju
 
 - Bellman–Ford (directed graphs)
+
+- Floyd–Warshall
+
+- Topological Sort

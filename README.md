@@ -30,3 +30,7 @@ C++ Basic Graph Algorithms
 - A* Search
 
 - Dinic's Algorithm
+
+- Articulation Points + Bridges
+
+- Johnson's Algorithm

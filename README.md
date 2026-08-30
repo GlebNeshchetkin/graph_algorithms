@@ -26,3 +26,7 @@ C++ Basic Graph Algorithms
 - Floyd–Warshall
 
 - Topological Sort
+
+- A* Search
+
+- Dinic's Algorithm
